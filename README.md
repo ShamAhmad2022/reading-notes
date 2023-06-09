@@ -1,5 +1,6 @@
 # Reading Notes
 
+[The Growth Mindset](./readme2.md)
 
 to keep track of the observations and questions from the reading assignments throughout the course.
 
