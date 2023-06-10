@@ -2,6 +2,8 @@
 
 [The Growth Mindset](./readme2.md)
 
+[The Growth Mindset](./README3Node.md)
+
 to keep track of the observations and questions from the reading assignments throughout the course.
 
 
