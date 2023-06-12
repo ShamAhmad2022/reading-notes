@@ -6,6 +6,8 @@
 
 [Readings: Express, NPM, TDD, CI/CD](./READMEEXP.md)
 
+[Data Structures and Algorithms](./README5.md)
+
 
 to keep track of the observations and questions from the reading assignments throughout the course.
 
