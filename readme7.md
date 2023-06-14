@@ -2,7 +2,6 @@
 
 Linked Lists and big O are really important topics to know more about since I wanna be a fullstack developer, and since i specifically want to focus on working on the MERN stack.
 
-## ES6 Classes
 
 1. what is linked list data structure?
     
