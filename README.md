@@ -10,6 +10,8 @@
 
 [Express REST API](./README6.md)
 
+[Linked Lists](./readme7.md)
+
 
 to keep track of the observations and questions from the reading assignments throughout the course.
 
