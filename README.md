@@ -12,6 +12,8 @@
 
 [Linked Lists](./readme7.md)
 
+[Data Modeling](./README8.md)
+
 
 to keep track of the observations and questions from the reading assignments throughout the course.
 
