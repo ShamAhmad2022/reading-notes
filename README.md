@@ -14,7 +14,10 @@
 
 [Data Modeling](./README8.md)
 
+[Authenticationl](./README9.md)
+
 [Access Control (ACL)](./README11.md)
+
 
 
 to keep track of the observations and questions from the reading assignments throughout the course.
