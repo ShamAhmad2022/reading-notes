@@ -1,6 +1,6 @@
 # Authentication
 
-It's really very important for me to know more about ACL and RBAC in order to be able to build more secured websites
+It's really very important for me to know more about Authentication so I can built more secured apps, and to protect the databse and the data
 
 ## Securing Passwords
 
