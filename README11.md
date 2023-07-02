@@ -1,6 +1,6 @@
 # Access Control (ACL)
 
-It's really very important for me to know more about databases and the difference between SQL and NoSQL because it will help me decide which one i should use based on the project i want to work on. beside of course it is an important topic i should professionalize as a fullstack developer
+It's really very important for me to know more about ACL and RBAC in order to be able to build more secured websites
 
 ## 5 steps to RBAC
 Page Not Found
