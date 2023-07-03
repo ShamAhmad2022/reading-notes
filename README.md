@@ -16,6 +16,8 @@
 
 [Authenticationl](./README9.md)
 
+[Bearer Authorization](./README10.md)
+
 [Access Control (ACL)](./README11.md)
 
 
