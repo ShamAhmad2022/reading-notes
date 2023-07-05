@@ -22,6 +22,8 @@
 
 [Authorization/Authentication](./README12.md)
 
+[Stacks and Queues](./README13.md)
+
 
 
 to keep track of the observations and questions from the reading assignments throughout the course.
