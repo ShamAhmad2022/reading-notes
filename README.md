@@ -28,6 +28,8 @@
 
 [Socket.io](./README15.md)
 
+[Message Queues](./README16.md)
+
 
 
 to keep track of the observations and questions from the reading assignments throughout the course.
